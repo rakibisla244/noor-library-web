@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Green rounded square background matching Noor Library logo -->
+  <rect width="512" height="512" rx="88" ry="88" fill="#047857"/>
+  <!-- Open book icon (white) - left page -->
+  <path d="M136 144 C112 144 96 156 96 156 L96 368 C96 368 116 358 148 358 C180 358 210 368 242 368 L242 156 C242 156 218 144 194 144 Z" fill="white"/>
+  <!-- Open book icon (white) - right page -->
+  <path d="M376 144 C352 144 336 156 294 156 L270 156 L270 368 C302 368 332 358 364 358 C396 358 416 368 416 368 L416 156 C416 156 400 144 376 144 Z" fill="white"/>
+  <!-- Book spine center line -->
+  <rect x="242" y="148" width="28" height="224" rx="4" fill="#d1fae5"/>
+  <!-- Bottom curve detail left -->
+  <path d="M96 368 C96 368 116 358 148 358 C180 358 210 368 242 368 L242 390 C210 390 180 382 148 382 C116 382 96 390 96 390 Z" fill="white" opacity="0.6"/>
+  <!-- Bottom curve detail right -->
+  <path d="M416 368 C416 368 396 358 364 358 C332 358 302 368 270 368 L270 390 C302 390 332 382 364 382 C396 382 416 390 416 390 Z" fill="white" opacity="0.6"/>
+</svg>
